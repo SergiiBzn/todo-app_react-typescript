@@ -34,16 +34,16 @@ vite.config.ts         — Vite configuration
 ```
 
 ✨ Features
-	•	Add new todo items
-	•	Display a list of tasks
-	•	Mark tasks as completed (or delete them)
-	•	Easily extendable for filtering, localStorage, persistence, etc.
+	- Add new todo items
+	- Display a list of tasks
+	- Mark tasks as completed (or delete them)
+	- Easily extendable for filtering, localStorage, persistence, etc.
 
 🛠 Tech Stack
-	•	React (with Hooks)
-	•	TypeScript
-	•	Vite — fast bundler and dev server
-	•	ESLint — code quality and linting
+	- React (with Hooks)
+	- TypeScript
+	- Vite — fast bundler and dev server
+	- ESLint — code quality and linting
 
 📚 Why this project?
 
